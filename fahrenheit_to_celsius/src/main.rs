@@ -1,4 +1,3 @@
-use std::fmt::format;
 use std::io;
 
 fn main() {
